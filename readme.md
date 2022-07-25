@@ -13,4 +13,4 @@ Eva is my Virtual Assistant built using Botkit. Support platforms include:
 * WhatsApp
 
 
-To complete the configuration of this bot, copy `.env.sample` to `.env`. Update with the appropiate security keys and "~~~Bob's~~~ Eva your ~~~uncle~~~ aunt".
+To complete the configuration of this bot, copy `.env.sample` to `.env`. Update with the appropiate security keys and "~~Bob's~~ Eva your ~~uncle~~ aunt".
