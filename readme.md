@@ -1,10 +1,16 @@
-# Botkit Starter Kit
+# Eva
+![Electronic Virtual Assistant](https://github.com/andronics/eva/raw/main/public/media/avatar.png)
 
-This is a Botkit starter kit for slack, created with the [Yeoman generator](https://github.com/howdyai/botkit/tree/master/packages/generator-botkit#readme).
+Eva is my Virtual Assistant built using Botkit. Support platforms include:
 
-To complete the configuration of this bot, make sure to update the included `.env` file with your platform tokens and credentials.
+* Cisco Webex
+* Facebook Messenger
+* Facebook Workplace
+* Google Hangouts
+* Microsoft Teams
+* Slack
+* Web
+* WhatsApp
 
-[Botkit Docs](https://github.com/howdyai/botkit/blob/main/packages/docs/index.md)
 
-This bot is powered by [a folder full of modules](https://github.com/howdyai/botkit/blob/main/packages/docs/core.md#organize-your-bot-code). 
-Edit the samples, and add your own in the [features/](features/) folder.
+To complete the configuration of this bot, copy `.env.sample` to `.env`. Update with the appropiate security keys and "~~~Bob's~~~ Eva your ~~~uncle~~~ aunt".
